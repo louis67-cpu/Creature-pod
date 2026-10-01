@@ -1,0 +1,9 @@
+{
+  "name": "Creature Pod",
+  "short_name": "Creature Pod",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#031108",
+  "theme_color": "#08210e",
+  "description": "An original wildlife field scanner and creature database."
+}
